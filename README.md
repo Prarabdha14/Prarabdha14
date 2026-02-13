@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hey</h1>
 
 ###
 
-<p align="left">My name is prarabdha pandey and I'm a BTech student from symbiosis institute of technology, I'm interested in  building AI-powered applications, exploring new technologies, contributing to open-source projects.</p>
+<p align="left">My name is prarabdha pandey and I'm a final year BTech student from symbiosis institute of technology, I'm interested in  building AI-powered applications, exploring new technologies, contributing to open-source projects.</p>
 
 ###
 
