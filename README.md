@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is prarabdha pandey and I'm a final year BTech student from symbiosis institute of technology, I'm interested in  building AI-powered applications, exploring new technologies, contributing to open-source projects.</p>
+<p align="left">My name is Prarabdha Pandey, a final year BTech student from symbiosis institute of technology, I'm interested in  building AI-powered applications, exploring new technologies, contributing to open-source projects.</p>
 
 ###
 
@@ -42,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" height="40" alt="langchain logo"  />
 </div>
 
 ###
